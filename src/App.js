@@ -14,7 +14,6 @@ class App extends Component {
       postTitle: "",
       pageNumber: 1
     };
-    console.log(this.state);
   }
 
   componentDidMount() {
